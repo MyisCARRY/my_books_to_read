@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635656066943",
+    "project_id": "my-books-to-read-a9948",
+    "storage_bucket": "my-books-to-read-a9948.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635656066943:android:24d4c76835c4e3ed50ec4a",
+        "android_client_info": {
+          "package_name": "com.example.czincz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_56zyQVU5GLIyIr6v5UEHN2GK7RO2YuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

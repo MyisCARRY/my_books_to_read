@@ -1,0 +1,13 @@
+bricks:
+  flutter_clean_architecture:
+    path:
+      ../mason_bricks/flutter_clean_architecture
+  feature:
+    path:
+      ../mason_bricks/feature
+  bloc:
+    path:
+      ../mason_bricks/bloc
+  model:
+    path:
+      ../mason_bricks/model

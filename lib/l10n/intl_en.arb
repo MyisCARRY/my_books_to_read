@@ -1,0 +1,15 @@
+{
+  "defaultError": "There was an error",
+  "today": "today",
+  "yesterday": "yesterday",
+  "tomorrow": "tomorrow",
+  "invalidEmail": "Invalid email",
+  "thisFieldIsNecessary": "This field is necessary",
+  "searchBooksFailure": "There was problem during searching books",
+  "addFavoriteBookFailure": "There was problem with adding to favorite",
+  "getFavoriteBooksFailure": "There was problem with retrieving favorite books ",
+  "removeFavoriteBookFailure": "There was problem with removing from favorite",
+  "noResults": "No results",
+  "authorUnknown": "Author Unknown",
+  "favoriteBooks": "Favorite Books"
+}
